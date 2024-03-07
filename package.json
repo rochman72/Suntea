@@ -1,0 +1,27 @@
+{
+  "name": "suntea",
+  "version": "1.0.2",
+  "description": "suntea for teatest",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochman72/Suntea.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "abb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rochman72/Suntea/issues"
+  },
+  "homepage": "https://github.com/rochman72/Suntea#readme"
+}
